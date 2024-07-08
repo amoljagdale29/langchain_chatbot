@@ -3,3 +3,6 @@ chainlit
 langchain_community
 tenacity
 huggingface_hub
+chromadb
+qa_with_source
+langchain-huggingface
