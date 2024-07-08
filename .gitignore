@@ -3,4 +3,3 @@ chainlit/
 chainlit.md
 __pycache__/
 .chainlit/
-db/*
